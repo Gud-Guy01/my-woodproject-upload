@@ -811,9 +811,6 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\minitoc\english.m
 INPUT .\headerfooter-project01.tex
 INPUT .\headerfooter-project01.tex
 INPUT headerfooter-project01.tex
-INPUT .\main-project01 .aux
-INPUT .\main-project01 .aux
-INPUT main-project01 .aux
 OUTPUT main-project01 .aux
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
@@ -821,10 +818,6 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflsca
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT .\main-project01 .toc
-INPUT .\main-project01 .toc
-INPUT main-project01 .toc
-INPUT main-project01 .toc
 OUTPUT main-project01 .toc
 INPUT Cover (2).pdf
 INPUT .\Cover (2).pdf
@@ -853,31 +846,7 @@ INPUT .\substructure-project01.tex
 INPUT .\substructure-project01.tex
 INPUT substructure-project01.tex
 OUTPUT main-project01 .toc
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT .\main-project01 .lof
-INPUT .\main-project01 .lof
-INPUT main-project01 .lof
 OUTPUT main-project01 .lof
-INPUT .\main-project01 .lot
-INPUT .\main-project01 .lot
-INPUT main-project01 .lot
 OUTPUT main-project01 .lot
 INPUT .\Intro.tex
 INPUT .\Intro.tex
@@ -897,9 +866,15 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.t
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm

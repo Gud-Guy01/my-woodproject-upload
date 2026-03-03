@@ -95,7 +95,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{References}{10}{section*.2}%
+\contentsline {section}{References}{10}{section*.1}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -104,7 +104,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{Appendices}{11}{section*.3}%
+\contentsline {section}{Appendices}{11}{section*.2}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}

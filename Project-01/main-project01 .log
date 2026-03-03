@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.21)  3 MAR 2026 21:47
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.21)  3 MAR 2026 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1119,7 +1119,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (main-project01 .aux)
+
+No file "main-project01 ".aux.
 \openout1 = `"main-project01 .aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1199,7 +1200,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 12.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1250,7 +1250,11 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
 \c@lstlisting=\count437
 Package hyperref Info: Link coloring ON on input line 12.
-\Etoc@tf=\read4
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+No file "main-project01 ".toc.
 \c@minilofdepth=\count438
 \c@minilotdepth=\count439
 \c@partlofdepth=\count440
@@ -1265,25 +1269,16 @@ Package minitoc(hints) Info: I0047
 (minitoc(hints))             See the minitoc package documentation 
 (minitoc(hints))             for specific precautions.
 
-
 Package minitoc(hints) Warning: W0099
 (minitoc(hints))                --- The titlesec package is loaded. 
 (minitoc(hints))                It is incompatible 
 (minitoc(hints))                with the minitoc package.
 
-Package minitoc Info: I0024
-(minitoc)             PREPARING MINITOCS FROM "main-project01 ".toc on input line 12.
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}Introduction}{\reset@font\mtcSfont 1}{section.0.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2}Team Organization}{\reset@font\mtcSfont 2}{section.0.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3}Meeting Minutes \& Progress Reports}{\reset@font\mtcSfont 3}{section.0.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4}Architectural \& Structural Assumptions}{\reset@font\mtcSfont 4}{section.0.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Design \& Optimization Process}{\reset@font\mtcSfont 5}{section.0.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}Detailed Design Calculations}{\reset@font\mtcSfont 6}{section.0.6}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1}Load}{\reset@font\mtcSSfont 6}{subsection.0.6.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Design Drawings}{\reset@font\mtcSfont 8}{section.0.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8}Results, Discussion \& Conclusion}{\reset@font\mtcSfont 9}{section.0.8}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 10}{section*.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 11}{section*.3}}
+
+Package minitoc Warning: W0010
+(minitoc)                No file "main-project01 ".toc. 
+(minitoc)                MINITOCS NOT PREPARED on input line 12.
+
 \tf@toc=\write5
 \openout5 = `"main-project01 .toc"'.
 
@@ -1370,28 +1365,22 @@ File: Cover (2).pdf Graphic file (type pdf)
 \tf@toc=\write6
 \openout6 = `"main-project01 .toc"'.
 
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 33.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
- (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
- (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+ [1
 
 
-] (main-project01 .lof)
+]
+No file "main-project01 ".lof.
 \tf@lof=\write7
 \openout7 = `"main-project01 .lof"'.
 
- [2
+[2
 
-] (main-project01 .lot)
+]
+No file "main-project01 ".lot.
 \tf@lot=\write8
 \openout8 = `"main-project01 .lot"'.
 
- [3
+[3
 
 ] [4
 
@@ -1428,33 +1417,961 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-) (Intro.tex) [1
+) (Intro.tex)
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 21.
+
+[1
 
 
 
-] [2
+]
 
-] [3
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 23.
 
-] (Assumption.tex) [4
+[2
 
-] [5
+]
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 25.
+
+[3
+
+] (Assumption.tex)
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 28.
+
+[4
+
+]
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 30.
+
+[5
 
 ] (calculation.tex
-Overfull \hbox (19.04918pt too wide) in paragraph at lines 4--23
-[][] 
- []
+
+LaTeX Warning: Citation `EN1991-1-1-2002(3)' on page 6 undefined on input line 2.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+calculation.tex:3: LaTeX Error: Environment longtables undefined.
 
- [6
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{longtables}
+                      {|L|L|C|C|}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-]) [7] (Designdrawing.tex) [8
+calculation.tex:4: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.4 \hline
+          
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
-] (Result.tex) [9
+calculation.tex:5: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.5 \multicolumn{1}{|C|}{\textbf{Category}}
+                                            & \multicolumn{1}{C|}{\textbf{Su...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
-] [10
+calculation.tex:5: Misplaced alignment tab character &.
+l.5 \multicolumn{1}{|C|}{\textbf{Category}} &
+                                              \multicolumn{1}{C|}{\textbf{Su...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:5: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.5 ...icolumn{1}{C|}{\textbf{Sub-category / Use}}
+                                                                            ...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:5: Misplaced alignment tab character &.
+l.5 ...                                          &
+                                                   \textbf{\begin{tabular}[C...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+(C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+calculation.tex:5: Misplaced alignment tab character &.
+l.5 ...@{}c@{}}q\_k \\ {[}kN/m²{]}\end{tabular}} &
+                                                   \textbf{\begin{tabular}[C...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:5: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.5 ...{}}Q\_k\\  {[}kN{]}\end{tabular}} \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:6: Misplaced alignment tab character &.
+l.6 \textbf{Category A}                     &
+                                              \begin{tabular}[C]{@{}l@{}}Are...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:6: Misplaced alignment tab character &.
+l.6 ...}                                         &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:6: Misplaced alignment tab character &.
+l.6 ...                                          &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:6: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.6 ...                                  \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:7: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.7                                         &
+                                              - Floors                      ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:7: Misplaced alignment tab character &.
+l.7 ...                                          &
+                                                   1,5 to 2,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:7: Misplaced alignment tab character &.
+l.7 ...                                          &
+                                                   2,0 to 3,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:7: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.7 ...                                  \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:8: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.8                                         &
+                                              - Stairs                      ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:8: Misplaced alignment tab character &.
+l.8 ...                                          &
+                                                   2,0 to 4,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:8: Misplaced alignment tab character &.
+l.8 ...                                          &
+                                                   2,0 to 4,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:8: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.8 ...                                  \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:9: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.9                                         &
+                                              - Balconies                   ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:9: Misplaced alignment tab character &.
+l.9 ...                                          &
+                                                   2,5 to 4,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:9: Misplaced alignment tab character &.
+l.9 ...                                          &
+                                                   2,0 to 3,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:9: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.9 ...                                  \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:10: Misplaced alignment tab character &.
+l.10 \textbf{Category B}                     &
+                                               Office areas                 ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:10: Misplaced alignment tab character &.
+l.10 ...                                         &
+                                                   2,0 to 3,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:10: Misplaced alignment tab character &.
+l.10 ...                                         &
+                                                   1,5 to 4,5               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:10: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.10 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:11: Misplaced alignment tab character &.
+l.11 \textbf{Category C}                     &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:11: Misplaced alignment tab character &.
+l.11 ...                                         &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:11: Misplaced alignment tab character &.
+l.11 ...                                         &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:11: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.11 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:12: Misplaced alignment tab character &.
+l.12 C1                                      &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:12: Misplaced alignment tab character &.
+l.12 ... reading rooms)\end{tabular}             &
+                                                   2,0 to 3,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:12: Misplaced alignment tab character &.
+l.12 ...                                         &
+                                                   3,0 to 4,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:12: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.12 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:13: Misplaced alignment tab character &.
+l.13 C2                                      &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:13: Misplaced alignment tab character &.
+l.13 ...ches)\end{tabular}                       &
+                                                   3,0 to 4,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:13: Misplaced alignment tab character &.
+l.13 ...                                         &
+                                                   \begin{tabular}[C]{@{}c@{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:13: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.13 ... 7,0 \\ (4,0)\end{tabular}       \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:14: Misplaced alignment tab character &.
+l.14 C3                                      &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:14: Misplaced alignment tab character &.
+l.14 ...\\ entrance halls)\end{tabular}          &
+                                                   3,0 to 5,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:14: Misplaced alignment tab character &.
+l.14 ...                                         &
+                                                   4,0 to 7,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:14: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.14 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:15: Misplaced alignment tab character &.
+l.15 C4                                      &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:15: Misplaced alignment tab character &.
+l.15 ...s, gyms)\end{tabular}                    &
+                                                   3,5 to 5,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:15: Misplaced alignment tab character &.
+l.15 ...                                         &
+                                                   3,5 to 7,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:15: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.15 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:16: Misplaced alignment tab character &.
+l.16 C5                                      &
+                                               \begin{tabular}[C]{@{}l@{}}Ar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:16: Misplaced alignment tab character &.
+l.16 ...\ sports halls with stands)\end{tabular} &
+                                                   5,0 to 7,5               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:16: Misplaced alignment tab character &.
+l.16 ...                                         &
+                                                   3,5 to 4,5               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:16: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.16 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:17: Misplaced alignment tab character &.
+l.17 \textbf{Category D}                     &
+                                               Shopping areas               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:17: Misplaced alignment tab character &.
+l.17 ...                                         &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:17: Misplaced alignment tab character &.
+l.17 ...                                         &
+                                                                            ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:17: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.17 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:18: Misplaced alignment tab character &.
+l.18 D1                                      &
+                                               Areas in general retail shops...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:18: Misplaced alignment tab character &.
+l.18 ...                                         &
+                                                   4,0 to 5,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:18: Misplaced alignment tab character &.
+l.18 ...                                         &
+                                                   \begin{tabular}[C]{@{}c@{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:18: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.18 ... 7,0 \\ (4,0)\end{tabular}       \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:19: Misplaced alignment tab character &.
+l.19 D2                                      &
+                                               Areas in department stores   ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:19: Misplaced alignment tab character &.
+l.19 ...                                         &
+                                                   4,0 to 5,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:19: Misplaced alignment tab character &.
+l.19 ...                                         &
+                                                   3,5 to 7,0               ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:19: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.19 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:20: Misplaced alignment tab character &.
+l.20 \textbf{Category E}                     &
+                                               \begin{tabular}[C]{@{}l@{}}St...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:20: Misplaced alignment tab character &.
+l.20 ...cessible areas)\end{tabular}             &
+                                                   7,5                      ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:20: Misplaced alignment tab character &.
+l.20 ...                                         &
+                                                   7,0                      ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+calculation.tex:20: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
+l.20 ...                                 \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+calculation.tex:20: You can't use `\hrule' here except with leaders.
+\size@update ...p \setbox \strutbox \hbox {\vrule 
+                                                  \@height .7\baselineskip \...
+l.20 ...                                 \\ \hline
+                                                  
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: You can't use `\hrule' here except with leaders.
+\size@update ...p \setbox \strutbox \hbox {\vrule 
+                                                  \@height .7\baselineskip \...
+l.20 ...                                 \\ \hline
+                                                  
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (25.0pt): 
+(fancyhdr)                Make it at least 36.952pt, for example:
+(fancyhdr)                \setlength{\headheight}{36.952pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.952pt}.
+
+calculation.tex:20: You can't use `\hrule' here except with leaders.
+\size@update ...p \setbox \strutbox \hbox {\vrule 
+                                                  \@height .7\baselineskip \...
+l.20 ...                                 \\ \hline
+                                                  
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+calculation.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+calculation.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.20 ...                                 \\ \hline
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 20.
+
+[6
+
+]
+
+calculation.tex:21: LaTeX Error: \begin{document} ended by \end{longtables}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{longtables}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 33.
+
+[7] (Designdrawing.tex)
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 36.
+
+[8
+
+] (Result.tex)
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 40.
+
+[9
+
+]
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 67.
+
+[10
 
 ] (Appendices.tex
 File: plan1.pdf Graphic file (type pdf)
@@ -1463,70 +2380,102 @@ File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
- [11
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 7.
+
+[11
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
+
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
- [12
+[12
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
+
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
- [13
+[13
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
- [14
+[14
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
+
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
- [15
+[15
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
+
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
- [16
+[16
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
+
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
- [17
+[17
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 7.
+
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
- [18
+[18
 
 ])
 Package minitoc Info: I0009
@@ -1550,6 +2499,9 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the "main-project01 ".log file.
 
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 74.
+
 [19] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main-project01 .aux)
@@ -1557,14 +2509,24 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 74.
+
  ) 
 Here is how much of TeX's memory you used:
- 40610 strings out of 402982
- 819288 string characters out of 5448059
- 1462877 words of memory out of 5000000
- 68718 multiletter control sequences out of 15000+600000
- 635725 words of font info for 93 fonts, out of 8000000 for 9000
+ 40572 strings out of 402982
+ 818545 string characters out of 5448059
+ 1458877 words of memory out of 5000000
+ 68690 multiletter control sequences out of 15000+600000
+ 632886 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,18n,118p,597b,2114s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-project01 .xdv (27 pages, 100940 bytes).
+Output written on main-project01 .xdv (27 pages, 76832 bytes).
