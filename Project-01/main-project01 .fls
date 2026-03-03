@@ -84,8 +84,8 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT .\longtable.sty
+INPUT longtable.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
@@ -201,8 +201,6 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.s
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
-INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage.sty
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex\latex\lastpage\lastpage2e.sty
