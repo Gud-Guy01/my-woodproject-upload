@@ -878,16 +878,6 @@ OUTPUT main-project01 .lof
 INPUT .\main-project01 .lot
 INPUT .\main-project01 .lot
 INPUT main-project01 .lot
-OUTPUT main-project01 .lot
-INPUT .\Intro.tex
-INPUT .\Intro.tex
-INPUT Intro.tex
-INPUT .\Assumption.tex
-INPUT .\Assumption.tex
-INPUT Assumption.tex
-INPUT .\calculation.tex
-INPUT .\calculation.tex
-INPUT calculation.tex
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
@@ -906,6 +896,16 @@ INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\s
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+OUTPUT main-project01 .lot
+INPUT .\Intro.tex
+INPUT .\Intro.tex
+INPUT Intro.tex
+INPUT .\Assumption.tex
+INPUT .\Assumption.tex
+INPUT Assumption.tex
+INPUT .\calculation.tex
+INPUT .\calculation.tex
+INPUT calculation.tex
 INPUT .\Designdrawing.tex
 INPUT .\Designdrawing.tex
 INPUT Designdrawing.tex
