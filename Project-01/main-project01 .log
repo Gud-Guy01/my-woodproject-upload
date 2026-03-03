@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 00:07
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1254,11 +1254,7 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
 \c@lstlisting=\count437
 Package hyperref Info: Link coloring ON on input line 14.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-No file "main-project01 ".toc.
+\Etoc@tf=\read4
 \c@minilofdepth=\count438
 \c@minilotdepth=\count439
 \c@partlofdepth=\count440
@@ -1273,16 +1269,25 @@ Package minitoc(hints) Info: I0047
 (minitoc(hints))             See the minitoc package documentation 
 (minitoc(hints))             for specific precautions.
 
+
 Package minitoc(hints) Warning: W0099
 (minitoc(hints))                --- The titlesec package is loaded. 
 (minitoc(hints))                It is incompatible 
 (minitoc(hints))                with the minitoc package.
 
-
-Package minitoc Warning: W0010
-(minitoc)                No file "main-project01 ".toc. 
-(minitoc)                MINITOCS NOT PREPARED on input line 14.
-
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM "main-project01 ".toc on input line 14.
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}Introduction}{\reset@font\mtcSfont 1}{section.0.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2}Team Organization}{\reset@font\mtcSfont 2}{section.0.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3}Meeting Minutes \& Progress Reports}{\reset@font\mtcSfont 3}{section.0.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4}Architectural \& Structural Assumptions}{\reset@font\mtcSfont 4}{section.0.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Design \& Optimization Process}{\reset@font\mtcSfont 5}{section.0.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}Detailed Design Calculations}{\reset@font\mtcSfont 6}{section.0.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1}Load}{\reset@font\mtcSSfont 6}{subsection.0.6.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Design Drawings}{\reset@font\mtcSfont 7}{section.0.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8}Results, Discussion \& Conclusion}{\reset@font\mtcSfont 8}{section.0.8}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.3}}
 \tf@toc=\write5
 \openout5 = `"main-project01 .toc"'.
 
@@ -1369,22 +1374,28 @@ File: Cover (2).pdf Graphic file (type pdf)
 \tf@toc=\write6
 \openout6 = `"main-project01 .toc"'.
 
- [1
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+ (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+ (C:\Users\GooDGuy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 
-]
-No file "main-project01 ".lof.
+] (main-project01 .lof)
 \tf@lof=\write7
 \openout7 = `"main-project01 .lof"'.
 
-[2
+ [2
 
-]
-No file "main-project01 ".lot.
+] (main-project01 .lot)
 \tf@lot=\write8
 \openout8 = `"main-project01 .lot"'.
 
-[3
+ [3
 
 ] [4
 
@@ -1421,76 +1432,25 @@ No file "main-project01 ".lot.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-) (Intro.tex)
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 23.
-
-[1
+) (Intro.tex) [1
 
 
 
-]
+] [2
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 25.
+] [3
 
-[2
+] (Assumption.tex) [4
 
-]
+] [5
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 27.
+] (calculation.tex) [6
 
-[3
+] (Designdrawing.tex) [7
 
-] (Assumption.tex)
+] (Result.tex) [8
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 30.
-
-[4
-
-]
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 32.
-
-[5
-
-] (calculation.tex
-
-LaTeX Warning: Citation `EN1991-1-1-2002(3)' on page 6 undefined on input line 2.
-
-calculation.tex:22: Undefined control sequence.
-\thetable ->\thechapter .\thelesson 
-                                    .\arabic {section}.\arabic {table}
-l.22 \begin{longtable}{CCC}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-)
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 35.
-
-[6
-
-] (Designdrawing.tex)
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 38.
-
-[7
-
-] (Result.tex)
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 42.
-
-[8
-
-]
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 69.
-
-[9
+] [9
 
 ] (Appendices.tex
 File: plan1.pdf Graphic file (type pdf)
@@ -1499,102 +1459,70 @@ File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 7.
-
-[10
+ [10
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 1>
-[11
+ [11
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
-
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 2>
-[12
+ [12
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 3>
-[13
+ [13
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 4>
-[14
+ [14
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
-
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 5>
-[15
+ [15
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
-
-
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 6>
-[16
+ [16
 
 ]
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
-
-
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 7.
-
 File: plan1.pdf Graphic file (type pdf)
 <use plan1.pdf, page 7>
-[17
+ [17
 
 ])
 Package minitoc Info: I0009
@@ -1618,9 +1546,6 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the "main-project01 ".log file.
 
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 76.
-
 [18] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main-project01 .aux)
@@ -1628,24 +1553,14 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package lastpage Warning: Rerun to get the references right on input line 76.
-
  ) 
 Here is how much of TeX's memory you used:
- 40511 strings out of 402982
- 817535 string characters out of 5448060
+ 40603 strings out of 402982
+ 819094 string characters out of 5448060
  1453311 words of memory out of 5000000
- 68651 multiletter control sequences out of 15000+600000
- 628225 words of font info for 59 fonts, out of 8000000 for 9000
+ 68711 multiletter control sequences out of 15000+600000
+ 635725 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,18n,118p,597b,2114s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-project01 .xdv (26 pages, 62772 bytes).
+Output written on main-project01 .xdv (26 pages, 83488 bytes).

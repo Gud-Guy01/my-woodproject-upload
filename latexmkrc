@@ -1,1 +1,1 @@
-$ENV{'TEXINPUTS'} = './Project-01//:' . $ENV{'TEXINPUTS'};
+$ENV{'TEXINPUTS'} = '.:./Project-01//:' . $ENV{'TEXINPUTS'};
