@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.21)  3 MAR 2026 21:56
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.21)  3 MAR 2026 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1119,7 +1119,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (main-project01 .aux)
+
+No file "main-project01 ".aux.
 \openout1 = `"main-project01 .aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1199,7 +1200,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 12.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1652,10 +1652,10 @@ Package lastpage Warning: Rerun to get the references right on input line 74.
 
  ) 
 Here is how much of TeX's memory you used:
- 40575 strings out of 402982
- 818604 string characters out of 5448059
+ 40572 strings out of 402982
+ 818534 string characters out of 5448059
  1467877 words of memory out of 5000000
- 68691 multiletter control sequences out of 15000+600000
+ 68690 multiletter control sequences out of 15000+600000
  632886 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,18n,118p,597b,2122s stack positions out of 10000i,1000n,20000p,200000b,200000s
