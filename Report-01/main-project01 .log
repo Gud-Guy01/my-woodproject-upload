@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Report-01/main-project01 .log
 This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  5 MAR 2026 18:01
+=======
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  4 MAR 2026 21:53
+>>>>>>> b498083add35599d377b067b63b1bcebd10a6ccb:Project-01/main-project01 .log
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1477,12 +1481,24 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD:Report-01/main-project01 .log
  40477 strings out of 402982
  816879 string characters out of 5448060
  1450214 words of memory out of 5000000
  68618 multiletter control sequences out of 15000+600000
  631056 words of font info for 72 fonts, out of 8000000 for 9000
+=======
+ 40609 strings out of 402982
+ 819204 string characters out of 5448060
+ 1474305 words of memory out of 5000000
+ 68717 multiletter control sequences out of 15000+600000
+ 635725 words of font info for 93 fonts, out of 8000000 for 9000
+>>>>>>> b498083add35599d377b067b63b1bcebd10a6ccb:Project-01/main-project01 .log
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,598b,2053s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+<<<<<<< HEAD:Report-01/main-project01 .log
 Output written on main-project01 .xdv (9 pages, 27328 bytes).
+=======
+Output written on main-project01 .xdv (27 pages, 126260 bytes).
+>>>>>>> b498083add35599d377b067b63b1bcebd10a6ccb:Project-01/main-project01 .log
