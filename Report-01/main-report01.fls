@@ -825,9 +825,6 @@ INPUT .\main-report01.toc
 INPUT .\main-report01.toc
 INPUT main-report01.toc
 INPUT main-report01.toc
-OUTPUT main-report01.mtc1
-OUTPUT main-report01.mtc2
-OUTPUT main-report01.mtc3
 OUTPUT main-report01.toc
 INPUT .\substructure-report01.tex
 INPUT .\substructure-report01.tex

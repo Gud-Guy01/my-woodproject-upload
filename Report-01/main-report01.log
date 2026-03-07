@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 15:44
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 15:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1273,18 +1273,34 @@ Package minitoc(hints) Warning: W0099
 
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM main-report01.toc on input line 14.
-Package minitoc Info: I0033
-(minitoc)             Writing main-report01.mtc1.
-\openout4 = `main-report01.mtc1'.
-
-Package minitoc Info: I0033
-(minitoc)             Writing main-report01.mtc2.
-\openout4 = `main-report01.mtc2'.
-
-Package minitoc Info: I0033
-(minitoc)             Writing main-report01.mtc3.
-\openout4 = `main-report01.mtc3'.
-
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {Abstract}}{\reset@font\mtcSfont 1}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}Tension Test (\textit {Essai de Traction})}{\reset@font\mtcSfont 2}{section.0.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1}Introduction}{\reset@font\mtcSSfont 2}{subsection.0.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2}Objective}{\reset@font\mtcSSfont 2}{subsection.0.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3}Calculations and Results}{\reset@font\mtcSSfont 2}{subsection.0.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4}Conclusion}{\reset@font\mtcSSfont 2}{subsection.0.1.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2}Axial Compression Test (\textit {Essai de Compression Axiale})}{\reset@font\mtcSfont 3}{section.0.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1}Introduction}{\reset@font\mtcSSfont 3}{subsection.0.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2}Objective}{\reset@font\mtcSSfont 3}{subsection.0.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3}Calculations and Results}{\reset@font\mtcSSfont 3}{subsection.0.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4}Conclusion}{\reset@font\mtcSSfont 3}{subsection.0.2.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3}Local Compression Test (\textit {Essai de Compression Locale})}{\reset@font\mtcSfont 4}{section.0.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1}Introduction}{\reset@font\mtcSSfont 4}{subsection.0.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2}Objective}{\reset@font\mtcSSfont 4}{subsection.0.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3}Calculations and Results}{\reset@font\mtcSSfont 4}{subsection.0.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4}Conclusion}{\reset@font\mtcSSfont 4}{subsection.0.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4}Shear Test (\textit {Essai de Cisaillement})}{\reset@font\mtcSfont 5}{section.0.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSSfont 5}{subsection.0.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2}Objective}{\reset@font\mtcSSfont 5}{subsection.0.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3}Calculations and Results}{\reset@font\mtcSSfont 5}{subsection.0.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 5}{subsection.0.4.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 6}{section.0.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 6}{subsection.0.5.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 6}{subsection.0.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 6}{subsection.0.5.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 6}{subsection.0.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {References}}{\reset@font\mtcSfont 7}{section*.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \textbf {Appendices}}{\reset@font\mtcSfont 8}{section*.3}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1488,12 +1504,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40624 strings out of 402982
- 819597 string characters out of 5448060
+ 40621 strings out of 402982
+ 819582 string characters out of 5448060
  1459938 words of memory out of 5000000
  68689 multiletter control sequences out of 15000+600000
  631080 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2053s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (13 pages, 89756 bytes).
+Output written on main-report01.xdv (13 pages, 95252 bytes).

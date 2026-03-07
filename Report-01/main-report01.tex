@@ -20,7 +20,7 @@
 \phantomsection
 \markboth{Abstarct}{Abstract}
 \section*{Abstract}
-\addcontentsline{toc}{chapter}{Abstract}
+\addcontentsline{toc}{section}{\textbf{Abstract}}
 \input{abstract.tex}
 \clearpage
 \section{Tension Test (\textit{Essai de Traction})}
@@ -47,7 +47,7 @@
 \renewcommand{\bibname}{References}  % change Bibliography -> References globally
 %\thispagestyle{empty}  % optional: remove headers/footers
 \begin{thebibliography}{99}
-\addcontentsline{toc}{chapter}{References}
+\addcontentsline{toc}{section}{\textbf{References}}
 \bibitem{1} Let say it is References 1
 \bibitem{2} Let say it is References 2 ...
 \end{thebibliography}
@@ -58,7 +58,7 @@
 \phantomsection %Creates a hyperlink anchor (jump to that page when click)
 \section*{Appendices}
 \markright{Appendices} % still make markright work eventhough using \section*{}
-\addcontentsline{toc}{chapter}{Appendices}
+\addcontentsline{toc}{section}{\textbf{Appendices}}
 \input{appendices.tex}
 \end{document}
 %...existing code...
