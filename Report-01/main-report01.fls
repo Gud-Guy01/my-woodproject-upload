@@ -860,6 +860,9 @@ INPUT .\main-report01.lot
 INPUT .\main-report01.lot
 INPUT main-report01.lot
 OUTPUT main-report01.lot
+INPUT .\abstract.tex
+INPUT .\abstract.tex
+INPUT abstract.tex
 INPUT .\Intro.tex
 INPUT .\Intro.tex
 INPUT Intro.tex
