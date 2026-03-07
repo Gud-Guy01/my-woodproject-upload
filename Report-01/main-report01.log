@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 16:07
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  7 MAR 2026 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1208,13 +1208,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=412.56497pt
+* \textwidth=426.79135pt
 * \textheight=702.78308pt
-* \oddsidemargin=41.54103pt
+* \oddsidemargin=27.31465pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-51.1381pt
 * \headheight=25.0pt
@@ -1509,7 +1509,7 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  40622 strings out of 402982
  819588 string characters out of 5448060
- 1459932 words of memory out of 5000000
+ 1459931 words of memory out of 5000000
  68690 multiletter control sequences out of 15000+600000
  631080 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
