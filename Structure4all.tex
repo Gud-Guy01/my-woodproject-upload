@@ -80,8 +80,8 @@ longtable}
 % ==================== METADATA ====================
 
 %toc Allow multi-line TOC entries
-\renewcommand{\cftchapafterpnum}{\vspace{5pt}}
-\renewcommand{\cftsecafterpnum}{\vspace{5pt}}
+% \renewcommand{\cftchapafterpnum}{\vspace{5pt}}
+% \renewcommand{\cftsecafterpnum}{\vspace{5pt}}
 %figure  Define figure numbering to include chapter.lesson.figure
 \numberwithin{figure}{section}
 \renewcommand{\thefigure}
@@ -91,12 +91,12 @@ longtable}
 %lof: listoffigure ......
 
 % Redefine List of Figures entries
-\renewcommand{\cftfigpresnum}{Figure } % prefix "Figure "
+\renewcommand{\cftfigpresnum}{\textit{Figure} } % prefix "Figure "
 \renewcommand{\cftfigaftersnum}{ }      % dot after number
 \setlength{\cftfignumwidth}{2.5cm}       % adjust space for number
 
 %lot Redefine List of Tables entries
-\renewcommand{\cfttabpresnum}{Table } % prefix "Table "
+\renewcommand{\cfttabpresnum}{\textit{Table} } % prefix "Table "
 \renewcommand{\cfttabaftersnum}{:}   % colon after number
 \setlength{\cfttabnumwidth}{2.5cm}     % adjust space for number
 %table Same for tables
