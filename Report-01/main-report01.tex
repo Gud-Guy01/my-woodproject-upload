@@ -6,12 +6,21 @@
 % Load project structure if available; don't fail LaTeX if file is missing
 \input{../Structure4all.tex}
 %section format.
-\titleformat{\section}
-  {\Huge\bfseries\centering}          % format: centered, large, bold
-  {\thesection}                         % label: section number
-  {1em}{}                                 % sep between number and title
-  [\vspace{0.5ex}\color{blue}{\rule{\textwidth}{0.1pt}}]  % after-code: bottom rule
+  % Format for numbered \section
+\titleformat{\section}         % redefine the \section command
+  {\Large\bfseries\centering}  % font: large, bold, centered
+  {}                           % label: empty (number is handled below)
+  {0em}                        % sep: no space between label and title
+  {\noindent\rule{\textwidth}{0.4pt}\\\thesection.\space} % before-code: top rule, then number
+  [\vspace{-0.5em}\noindent\rule{\textwidth}{0.4pt}]      % after-code: bottom rule
 
+% Format for unnumbered \section*
+\titleformat{name=\section, numberless} % redefine the starred \section* variant
+  {\Large\bfseries\centering}           % font: large, bold, centered
+  {}                                    % label: empty (no number)
+  {0em}                                 % sep: no space between label and title
+  {\noindent\rule{\textwidth}{0.4pt}\\} % before-code: top rule only, no number
+  [\vspace{-0.5em}\noindent\rule{\textwidth}{0.4pt}] % after-code: bottom rule
 \input{headerfooter-report01.tex}
 
 %------------------------%
