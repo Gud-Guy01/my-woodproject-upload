@@ -64,6 +64,7 @@
 \xpg@aux {}{english}
 \contentsline {section}{\numberline {4}Shear Test (\textit {Essai de Cisaillement})}{5}{section.0.4}%
 \contentsline {subsection}{\numberline {4.1}Introduction}{5}{subsection.0.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}g}{5}{subsubsection.0.4.1.1}%
 \contentsline {subsection}{\numberline {4.2}Objective}{5}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3}Calculations and Results}{5}{subsection.0.4.3}%
 \contentsline {subsection}{\numberline {4.4}Conclusion}{5}{subsection.0.4.4}%

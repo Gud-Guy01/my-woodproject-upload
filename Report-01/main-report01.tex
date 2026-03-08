@@ -22,7 +22,14 @@
   {\color{blue!80}{}}
  % {\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}\\} % before-code: top rule only, no number
  % [\vspace{-0.5em}\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}] % after-code: bottom rule
-\input{headerfooter-report01.tex}
+\titleformat{\subsection}         % redefine the \section command
+  {\bfseries}  % font: large, bold, centered
+  {}                           % label: empty (number is handled below)
+  {0em}
+  {\noindent \color{blue!80}{}\thesubsection \space \space}                       % sep: no space between label and title
+  %{\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}\\[.5em]\thesubsection.\space} % before-code: top rule, then number
+  %[\vspace{-0.1em}\noindent\color{blue!80}{\rule{\textwidth}{0.4pt}}]      % after-code: bottom rule
+ \input{headerfooter-report01.tex}
 
 %------------------------%
 %document DOCUMENT START
