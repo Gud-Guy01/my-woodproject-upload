@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 05:22
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 05:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1296,16 +1296,16 @@ Package minitoc Info: I0024
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSSfont 5}{subsection.0.4.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2}Objective}{\reset@font\mtcSSfont 5}{subsection.0.4.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3}Calculations and Results}{\reset@font\mtcSSfont 5}{subsection.0.4.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1}Speciment Dimensions}{\reset@font\mtcSSSfont 5}{subsubsection.0.4.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 5}{subsection.0.4.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 6}{section.0.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 6}{subsection.0.5.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 6}{subsection.0.5.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 6}{subsection.0.5.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 6}{subsection.0.5.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 7}{section*.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 8}{section*.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 9}{section*.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1}Sample Dimensions}{\reset@font\mtcSSSfont 5}{subsubsection.0.4.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 6}{subsection.0.4.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 7}{section.0.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 7}{subsection.0.5.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 7}{subsection.0.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 7}{subsection.0.5.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 7}{subsection.0.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 8}{section*.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.5}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1447,11 +1447,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] (sample4/sample4.tex (sample4/introduction.tex) (sample4/objective.tex) (sample4/calculationandresult.tex) (sample4/conclusion.tex)) [5
 
-] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [6
-
-] [7
+] [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
 
 ] [8
+
+] [9
 
 ] (appendices.tex)
 Package minitoc Info: I0009
@@ -1475,7 +1475,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main-report01.log file.
 
-[9
+[10
 
 ] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -1486,12 +1486,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40725 strings out of 402982
- 822098 string characters out of 5448060
- 1458113 words of memory out of 5000000
- 68781 multiletter control sequences out of 15000+600000
+ 40733 strings out of 402982
+ 822272 string characters out of 5448060
+ 1460113 words of memory out of 5000000
+ 68789 multiletter control sequences out of 15000+600000
  635757 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (14 pages, 115984 bytes).
+Output written on main-report01.xdv (15 pages, 121192 bytes).
