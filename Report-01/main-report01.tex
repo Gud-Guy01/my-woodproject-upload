@@ -5,10 +5,24 @@
 
 % Load project structure if available; don't fail LaTeX if file is missing
 \input{../Structure4all.tex}
+%section format.
+% \titleformat{\section}
+% {\centering\Large\bfseries}
+% {\thesection}{1em}
+% {}
+% [\vspace{0.5ex}\rule{\textwidth}{0.4pt}]
 \titleformat{\section}
-{\centering\Large\bfseries}
-{\thesection}{1em}{}
-[\vspace{0.5ex}\rule{\textwidth}{0.4pt}]
+{\Large\bfseries}
+{\thesection}{1em}
+{
+\begin{center}
+\rule{\textwidth}{0.4pt}\\[0.5ex]
+}
+[
+\\[0.5ex]\rule{\textwidth}{0.4pt}
+\end{center}
+]
+
 \input{headerfooter-report01.tex}
 
 %------------------------%
