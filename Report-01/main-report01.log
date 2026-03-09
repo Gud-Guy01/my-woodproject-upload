@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 11:57
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1301,6 +1301,7 @@ Package minitoc Info: I0024
 {\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.3}Shear Stress Calculation}{\reset@font\mtcSSSfont 6}{subsubsection.0.4.3.3}}
 {\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.4}Statistical Analysis}{\reset@font\mtcSSSfont 7}{subsubsection.0.4.3.4}}
 {\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.5}Standard deviation:}{\reset@font\mtcSSSfont 7}{subsubsection.0.4.3.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.6}Coefficient of Variation ($C_v$):}{\reset@font\mtcSSSfont 7}{subsubsection.0.4.3.6}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 7}{subsection.0.4.4}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 8}{section.0.5}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 8}{subsection.0.5.1}}
@@ -1393,17 +1394,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-] (main-report01.lof)
+] [2] (main-report01.lof)
 \tf@lof=\write7
 \openout7 = `main-report01.lof'.
 
- [2
+ [3
 
 ] (main-report01.lot)
 \tf@lot=\write8
 \openout8 = `main-report01.lot'.
 
- [3
+ [4
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1461,7 +1462,20 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 
 ]
 Missing character: There is no ₀ in font [lmroman12-regular]:mapping=tex-text;!
-[6]) (sample4/conclusion.tex)) [7] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [8
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 81.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 81.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 81.
+
+) (sample4/conclusion.tex)) [7] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [8
 
 ] [9
 
@@ -1500,12 +1514,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40766 strings out of 402982
- 823230 string characters out of 5448060
+ 40772 strings out of 402982
+ 823266 string characters out of 5448060
  1461114 words of memory out of 5000000
- 68817 multiletter control sequences out of 15000+600000
+ 68823 multiletter control sequences out of 15000+600000
  635757 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,12n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,118p,595b,2221s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (16 pages, 143972 bytes).
+Output written on main-report01.xdv (17 pages, 154800 bytes).

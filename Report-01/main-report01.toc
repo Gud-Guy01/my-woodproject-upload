@@ -87,6 +87,7 @@
 \xpg@aux {}{english}
 \contentsline {subsubsection}{\numberline {4.3.4}Statistical Analysis}{7}{subsubsection.0.4.3.4}%
 \contentsline {subsubsection}{\numberline {4.3.5}Standard deviation:}{7}{subsubsection.0.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Coefficient of Variation ($C_v$):}{7}{subsubsection.0.4.3.6}%
 \contentsline {subsection}{\numberline {4.4}Conclusion}{7}{subsection.0.4.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
