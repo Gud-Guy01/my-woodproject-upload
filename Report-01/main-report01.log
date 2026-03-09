@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 21:09
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 21:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1304,15 +1304,16 @@ Package minitoc Info: I0024
 {\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {4.3.5.1}Method 1- Wood Handbook Approach}{\reset@font\mtcPfont 8}{paragraph.0.4.3.5.1}}
 {\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {4.3.5.2}Method 2 - 5th percentile Method}{\reset@font\mtcPfont 8}{paragraph.0.4.3.5.2}}
 {\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {4.3.5.3}Method 3 -Euripean Standard EN 384}{\reset@font\mtcPfont 9}{paragraph.0.4.3.5.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {4.3.5.4}Comparison of Three Methods}{\reset@font\mtcPfont 9}{paragraph.0.4.3.5.4}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 9}{subsection.0.4.4}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 10}{section.0.5}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 10}{subsection.0.5.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 10}{subsection.0.5.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 10}{subsection.0.5.3}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 10}{subsection.0.5.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 11}{section*.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 12}{section*.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 13}{section*.8}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 11}{section*.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 12}{section*.8}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 13}{section*.9}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1467,7 +1468,12 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 
 ]
 Missing character: There is no ₀ in font [lmroman12-regular]:mapping=tex-text;!
-[6] [7] [8]) (sample4/conclusion.tex)) [9] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [10
+[6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 132--138
+
+ []
+
+) (sample4/conclusion.tex)) [9] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [10
 
 ] [11
 
@@ -1506,12 +1512,12 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 40782 strings out of 402982
- 823432 string characters out of 5448060
+ 40783 strings out of 402982
+ 823438 string characters out of 5448060
  1460142 words of memory out of 5000000
- 68833 multiletter control sequences out of 15000+600000
+ 68834 multiletter control sequences out of 15000+600000
  635757 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,13n,118p,595b,2221s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,13n,118p,595b,2243s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (19 pages, 178912 bytes).
+Output written on main-report01.xdv (19 pages, 180684 bytes).

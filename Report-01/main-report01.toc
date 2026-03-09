@@ -106,6 +106,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \contentsline {paragraph}{\numberline {4.3.5.3}Method 3 -Euripean Standard EN 384}{9}{paragraph.0.4.3.5.3}%
+\contentsline {paragraph}{\numberline {4.3.5.4}Comparison of Three Methods}{9}{paragraph.0.4.3.5.4}%
 \contentsline {subsection}{\numberline {4.4}Conclusion}{9}{subsection.0.4.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -128,7 +129,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{General Conclusion}{11}{section*.6}%
+\contentsline {section}{General Conclusion}{11}{section*.7}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -137,7 +138,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{References}{12}{section*.7}%
+\contentsline {section}{References}{12}{section*.8}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -146,7 +147,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{Appendices}{13}{section*.8}%
+\contentsline {section}{Appendices}{13}{section*.9}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
