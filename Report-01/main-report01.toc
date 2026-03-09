@@ -86,6 +86,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \contentsline {subsubsection}{\numberline {4.3.4}Statistical Analysis}{7}{subsubsection.0.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Standard deviation:}{7}{subsubsection.0.4.3.5}%
 \contentsline {subsection}{\numberline {4.4}Conclusion}{7}{subsection.0.4.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
