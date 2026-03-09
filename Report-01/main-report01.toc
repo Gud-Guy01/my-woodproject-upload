@@ -75,6 +75,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
+\contentsline {subsubsection}{\numberline {4.3.2}Machine Test Results}{6}{subsubsection.0.4.3.2}%
 \contentsline {subsection}{\numberline {4.4}Conclusion}{6}{subsection.0.4.4}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -97,7 +98,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{General Conclusion}{8}{section*.4}%
+\contentsline {section}{General Conclusion}{8}{section*.5}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -106,7 +107,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{References}{9}{section*.5}%
+\contentsline {section}{References}{9}{section*.6}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -115,7 +116,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
-\contentsline {section}{Appendices}{10}{section*.6}%
+\contentsline {section}{Appendices}{10}{section*.7}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 10:53
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 10:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1297,15 +1297,16 @@ Package minitoc Info: I0024
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2}Objective}{\reset@font\mtcSSfont 5}{subsection.0.4.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3}Calculations and Results}{\reset@font\mtcSSfont 5}{subsection.0.4.3}}
 {\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1}Sample Dimensions}{\reset@font\mtcSSSfont 5}{subsubsection.0.4.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.2}Machine Test Results}{\reset@font\mtcSSSfont 6}{subsubsection.0.4.3.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}Conclusion}{\reset@font\mtcSSfont 6}{subsection.0.4.4}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Bending Test (\textit {Essai de Flexion})}{\reset@font\mtcSfont 7}{section.0.5}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Introduction}{\reset@font\mtcSSfont 7}{subsection.0.5.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Objective}{\reset@font\mtcSSfont 7}{subsection.0.5.2}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Calculations and Results}{\reset@font\mtcSSfont 7}{subsection.0.5.3}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Conclusion}{\reset@font\mtcSSfont 7}{subsection.0.5.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 8}{section*.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode General Conclusion}{\reset@font\mtcSfont 8}{section*.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode References}{\reset@font\mtcSfont 9}{section*.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Appendices}{\reset@font\mtcSfont 10}{section*.7}}
 \tf@toc=\write5
 \openout5 = `main-report01.toc'.
 
@@ -1455,7 +1456,14 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 
  [5
 
-]) (sample4/conclusion.tex)) [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
+]
+Missing character: There is no ₀ in font [lmroman12-regular]:mapping=tex-text;!
+
+Overfull \hbox (53.0399pt too wide) in paragraph at lines 34--46
+[][] 
+ []
+
+) (sample4/conclusion.tex)) [6] (sample5/sample5.tex (sample5/introduction.tex) (sample5/objective.tex) (sample5/calculationandresult.tex) (sample5/conclusion.tex)) [7
 
 ] [8
 
@@ -1502,4 +1510,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  89i,11n,118p,595b,2049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (15 pages, 126640 bytes).
+Output written on main-report01.xdv (15 pages, 133964 bytes).
