@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 21:13
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.3.3)  9 MAR 2026 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1469,7 +1469,7 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 ]
 Missing character: There is no ₀ in font [lmroman12-regular]:mapping=tex-text;!
 [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 132--138
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
 
  []
 
@@ -1520,4 +1520,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  89i,13n,118p,595b,2243s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-report01.xdv (19 pages, 180684 bytes).
+Output written on main-report01.xdv (19 pages, 184856 bytes).

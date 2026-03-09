@@ -3,7 +3,6 @@
 
 \begin{table}[H]
 \centering
-\resizebox{\linewidth}{!}{
 \begin{tabular}{CCCCC}
 \hline
 No. & $a (mm)$ & $b (mm)$ & $h(mm)$& $h^\prime + h (mm)$\\ \hline
@@ -11,7 +10,6 @@ No. & $a (mm)$ & $b (mm)$ & $h(mm)$& $h^\prime + h (mm)$\\ \hline
 2  & 20.18& 30.66 & 16.65 & 28.14 \\
 3  & 20.09& 29.92 & 16.29 & 28.00\\\hline
 \end{tabular}
-}
 \caption{Dimension of shear testing sample}
 \end{table}
 \begin{figure}[H]
@@ -132,7 +130,13 @@ Since $\bar{f}_{05} = 13.7664 MPa <  30 MPa$, then $k_v = 1.12$. And choose $k_s
 \paragraph{Comparison of Three Methods} \text{ } \\[2mm]
 \begin{table}[H]
 \centering
-\begin{tabular}{CCC}
-
+\begin{tabular}{LLC}
+\hline
+\color{blue}{Method}  & $f_{v,k} (MPa)$ & \color{blue}{Remark} \\\hline
+Method 1 & $1.741 MPa$& $\sigma_{b12,v} \times p_k$ ($p_k = 14\%$)\\
+Method 2 & $4.97 MPa$& $R_n / k_z$ ($k_z = 2.25$)\\
+Method 3 & $8.767 MPa$& $\bar{f}_{05} \times k_s \times k_z$\\\hline
 \end{tabular}
+
+\caption{g}
 \end{table}
